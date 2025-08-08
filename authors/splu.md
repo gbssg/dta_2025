@@ -1,5 +1,5 @@
 # Luca Spaar #
-![Luca Spaar](../img/splu.jpg 250x)
+![Luca Spaar](../img/splu.jpg)
 ## Über mich
 
 Ich bin ein mexikanischer Wrestler der in der Schweiz grossgeworden ist und regelmässig in Underground Turnieren auftritt.
