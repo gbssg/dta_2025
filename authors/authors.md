@@ -10,7 +10,7 @@ Die Autoren dieser Referenz sind:
 * [Stefan Hubschmid](hust.md)
 * [Luca Spaar](splu.md)
 * [Luca Zindel](zilu.md)
-
+* [Reny Quizeidioco](qure.md)
 
 
 Begleitet durch [Ueli Niederer](niue.md)
