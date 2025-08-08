@@ -2,8 +2,15 @@
 
 Die Autoren dieser Referenz sind:
 
- [stefan hubschmid](hust.md)
+* [Ayana Schwizer](scay.md)
+* [Cyrill-Benjamin Wapp](wacy.md)
+* [Daniel Hinder](hida.md)
+* [Herbert Fritsche](frhe.md)
+* [Simon Rubin](rusi.md)
+* [Stefan Hubschmid](hust.md)
+* [Luca Spaar](splu.md)
+* [Luca Zindel](zilu.md)
 
-* *<Ergänzen sie hier Ihren eigenen Namen und sortieren Sie die Liste alphabetisch>*
+
 
 Begleitet durch [Ueli Niederer](niue.md)
