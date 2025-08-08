@@ -10,7 +10,7 @@ Neben der IT interessiere ich mich für Sport, vor allem Fussball und Basketball
 ### Meine Ausbildungsschritte
 
 - **2022**: Abschluss als Kaufmann EFZ
-- **2022**: Militärdienst der Schweizer Armee
+- **2022**: Militärdienst der Schweizer Armee in Emmen
 - **2023**: Verkaufinnendienst Mitarbeiter bei H.Goessler AG
 - **2025**: Start des Digital Talents program
 
