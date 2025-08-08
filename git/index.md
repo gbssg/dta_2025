@@ -6,5 +6,5 @@ Git Dokumentation: https://git-scm.com/doc
 
 ## Die wichtigsten Funktionen
 
-* ...
+* Test
 * ...
