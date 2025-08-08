@@ -4,6 +4,7 @@ Die Autoren dieser Referenz sind:
 
 
 * [Cyrill-Benjamin Wapp](wacy.md)
+* [Daniel Hinder](hida.md)
 * [Herbert Fritsche](frhe.md)
 * [Simon Rubin](rusi.md)
 * [Stefan Hubschmid](hust.md)
