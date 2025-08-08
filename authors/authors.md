@@ -8,9 +8,9 @@ Die Autoren dieser Referenz sind:
 * [Herbert Fritsche](frhe.md)
 * [Simon Rubin](rusi.md)
 * [Stefan Hubschmid](hust.md)
-
-* *<Ergänzen sie hier Ihren eigenen Namen und sortieren Sie die Liste alphabetisch>*
+* [Luca Spaar](splu.md)
 * [Luca Zindel](zilu.md)
+
 
 
 Begleitet durch [Ueli Niederer](niue.md)
