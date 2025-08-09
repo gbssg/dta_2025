@@ -2,6 +2,7 @@
 
 Die Autoren dieser Referenz sind:
 
+
 * [Ayana Schwizer](scay.md)
 * [Cyrill-Benjamin Wapp](wacy.md)
 * [Daniel Hinder](hida.md)
@@ -11,6 +12,6 @@ Die Autoren dieser Referenz sind:
 * [Luca Spaar](splu.md)
 * [Luca Zindel](zilu.md)
 * [Reny Quizeidioco](qure.md)
-
+* [Riccardo Frappietro](frri.md)
 
 Begleitet durch [Ueli Niederer](niue.md)
