@@ -1,12 +1,11 @@
 # Die Autoren
 
 Die Autoren dieser Referenz sind:
-
-
 * [Ayana Schwizer](scay.md)
 * [Cyrill-Benjamin Wapp](wacy.md)
 * [Daniel Hinder](hida.md)
 * [Herbert Fritsche](frhe.md)
+* [Michael Kueng](kumi.md)
 * [Simon Rubin](rusi.md)
 * [Stefan Hubschmid](hust.md)
 * [Luca Spaar](splu.md)
