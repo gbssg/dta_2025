@@ -1,7 +1,16 @@
 # Die Autoren
 
 Die Autoren dieser Referenz sind:
+* [Ayana Schwizer](scay.md)
+* [Cyrill-Benjamin Wapp](wacy.md)
+* [Daniel Hinder](hida.md)
+* [Herbert Fritsche](frhe.md)
 * [Michael Kueng](kumi.md)
-* *<Ergänzen sie hier Ihren eigenen Namen und sortieren Sie die Liste alphabetisch>*
+* [Simon Rubin](rusi.md)
+* [Stefan Hubschmid](hust.md)
+* [Luca Spaar](splu.md)
+* [Luca Zindel](zilu.md)
+* [Reny Quizeidioco](qure.md)
+* [Riccardo Frappietro](frri.md)
 
 Begleitet durch [Ueli Niederer](niue.md)
